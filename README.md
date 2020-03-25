@@ -2,7 +2,7 @@
 
 Repo : https://repo.xavatar.com
 
-## How install this repo (Arch Linux - Manjaro ) :
+## Build available (Arch Linux - Manjaro ) :
 
  - wine-tkg-staging-fsync-vkd3d-git-5.4.r12.ge5da84dc-256-x86_64.pkg.tar.xz	
  
