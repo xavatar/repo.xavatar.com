@@ -30,4 +30,4 @@ Repo : https://repo.xavatar.com
 
 In one command : 
 - echo -e "\n[repo.xavatar.com]\nSigLevel = Optional TrustAll\nServer = https://repo.xavatar.com" | sudo tee -a /etc/pacman.conf
-- pacman -Syu
+- sudo pacman -Syu
