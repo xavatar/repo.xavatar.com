@@ -10,18 +10,21 @@ Patch Proton : https://github.com/Tk-Glitch/PKGBUILDS/blob/master/proton-tkg/pro
 
  - wine-tkg-staging-fsync-vkd3d-git-5.4.r12.ge5da84dc-256-x86_64.pkg.tar.xz
  
- - vulkan-icd-loader-git-1.2.135.r3.gacbf31604-1-x86_64.pkg.tar.xz
+ - vulkan-icd-loader-git-1.2.135.r4.gcc481ef27-1-x86_64.pkg.tar.xz
  - vulkan-headers-tkg-git-1.2.136.r0.g0e78ffd-1-any.pkg.tar.xz
- - lib32-vulkan-icd-loader-git-1.2.135.r3.gacbf31604-1-x86_64.pkg.tar.xz
+ - lib32-vulkan-icd-loader-git-1.2.135.r4.gcc481ef27-1-x86_64.pkg.tar.xz
  
  - vkd3d-tkg-git-1.1.r689.ga59f198-1-x86_64.pkg.tar.xz
  - lib32-vkd3d-tkg-git-1.1.r689.ga59f198-1-x86_64.pkg.tar.xz
  
- - mesa-tkg-git-20.1.0_devel.121561.51831537a2a-1-x86_64.pkg.tar.xz
- - lib32-mesa-tkg-git-20.1.0_devel.121561.51831537a2a-1-x86_64.pkg.tar.xz
+ - mesa-tkg-git-20.1.0_devel.121583.1351ee03352-1-x86_64.pkg.tar.xz
+ - lib32-mesa-tkg-git-20.1.0_devel.121583.1351ee03352-1-x86_64.pkg.tar.xz
  
  - spirv-tools-tkg-git-2020.2.r1.gfd773eb5-1-x86_64.pkg.tar.xz
  - lib32-spirv-tools-tkg-git-2020.2.r1.gfd773eb5-1-x86_64.pkg.tar.xz
+ 
+ - faudio-tkg-git-20.03.r11.g311eed5-1-x86_64.pkg.tar.xz
+ - lib32-faudio-tkg-git-20.03.r11.g311eed5-1-x86_64.pkg.tar.xz
  
  - mingw-w64-binutils-2.34-1-x86_64.pkg.tar.xz
  - mingw-w64-crt-7.0.0-1-any.pkg.tar.xz
