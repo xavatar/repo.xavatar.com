@@ -2,6 +2,10 @@
 
 Repo : https://repo.xavatar.com
 
+Patch Wine Staging : https://github.com/Tk-Glitch/PKGBUILDS/blob/master/wine-tkg-git/customization.cfg
+
+Patch Proton : https://github.com/Tk-Glitch/PKGBUILDS/blob/master/proton-tkg/proton-tkg.cfg
+
 ## Build available (Arch Linux - Manjaro ) :
 
  - wine-tkg-staging-fsync-vkd3d-git-5.4.r12.ge5da84dc-256-x86_64.pkg.tar.xz
