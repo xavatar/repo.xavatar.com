@@ -10,6 +10,8 @@ Patch Proton : https://github.com/Tk-Glitch/PKGBUILDS/blob/master/proton-tkg/pro
 
  - wine-tkg-staging-fsync-vkd3d-git-5.4.r12.ge5da84dc-256-x86_64.pkg.tar.xz
  
+ - proton_tkg_5.4.r12.ge5da84dc.tar.gz
+ 
  - vulkan-icd-loader-git-1.2.135.r4.gcc481ef27-1-x86_64.pkg.tar.xz
  - vulkan-headers-tkg-git-1.2.136.r0.g0e78ffd-1-any.pkg.tar.xz
  - lib32-vulkan-icd-loader-git-1.2.135.r4.gcc481ef27-1-x86_64.pkg.tar.xz
@@ -38,3 +40,17 @@ Patch Proton : https://github.com/Tk-Glitch/PKGBUILDS/blob/master/proton-tkg/pro
 In one command : 
 - echo -e "\n[repo.xavatar.com]\nSigLevel = Optional TrustAll\nServer = https://repo.xavatar.com" | sudo tee -a /etc/pacman.conf
 - sudo pacman -Syu
+
+## How install Proton Build :
+
+- For regular Steam users, create a ~/.steam/root/compatibilitytools.d directory.
+- For Flatpak Steam users, create a ~/.var/app/com.valvesoftware.Steam/data/Steam/compatibilitytools.d/ directory.
+
+- For regular Steam users, extract the release tarball into ~/.steam/root/compatibilitytools.d/.
+- For Flatpak Steam users, extract the release tarball into ~/.var/app/com.valvesoftware.Steam/data/Steam/compatibilitytools.d/.
+- Restart Steam.
+- Right click any game in Steam and click Properties.
+- At the bottom of the General tab, Check Force the use of a specific Steam Play compatibility tool, then select the new Proton version.
+- Launch the game.
+
+
