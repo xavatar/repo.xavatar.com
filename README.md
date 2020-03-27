@@ -6,6 +6,12 @@ Patch Wine Staging : https://github.com/Tk-Glitch/PKGBUILDS/blob/master/wine-tkg
 
 Patch Proton : https://github.com/Tk-Glitch/PKGBUILDS/blob/master/proton-tkg/proton-tkg.cfg
 
+## How install this repo (Arch Linux - Manjaro ) :
+
+In one command : 
+- echo -e "\n[repo.xavatar.com]\nSigLevel = Optional TrustAll\nServer = https://repo.xavatar.com" | sudo tee -a /etc/pacman.conf
+- sudo pacman -Syu
+
 ## Build available (Arch Linux - Manjaro ) :
 
  - wine-tkg-staging-fsync-vkd3d-git-5.4.r12.ge5da84dc-256-x86_64.pkg.tar.xz
@@ -34,12 +40,6 @@ Patch Proton : https://github.com/Tk-Glitch/PKGBUILDS/blob/master/proton-tkg/pro
  - mingw-w64-winpthreads-7.0.0-1-any.pkg.tar.xz
  - mingw-w64-gcc-9.3.0-1-x86_64.pkg.tar.xz
  
-
-## How install this repo (Arch Linux - Manjaro ) :
-
-In one command : 
-- echo -e "\n[repo.xavatar.com]\nSigLevel = Optional TrustAll\nServer = https://repo.xavatar.com" | sudo tee -a /etc/pacman.conf
-- sudo pacman -Syu
 
 ## How install Proton Build :
 
