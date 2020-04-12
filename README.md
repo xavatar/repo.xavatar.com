@@ -1,10 +1,12 @@
 # repo.xavatar.com
 
-Repo : https://repo.xavatar.com
+INFORMATION: These were built on Manjaro against glibc 2.31
 
-Patch Wine Staging : https://github.com/Tk-Glitch/PKGBUILDS/blob/master/wine-tkg-git/customization.cfg
+Repo: https://repo.xavatar.com
 
-Patch Proton : https://github.com/Tk-Glitch/PKGBUILDS/blob/master/proton-tkg/proton-tkg.cfg
+Wine Staging Option Compilation : https://github.com/Frogging-Family/wine-tkg-git/blob/master/wine-tkg-git/customization.cfg
+
+Proton-TKG Option Compilation: https://github.com/Frogging-Family/wine-tkg-git/blob/master/proton-tkg/proton-tkg.cfg
 
 ## How install this repo (Arch Linux - Manjaro ) :
 
