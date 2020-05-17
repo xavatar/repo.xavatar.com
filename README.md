@@ -1,6 +1,6 @@
 # repo.xavatar.com
 
-INFORMATION: These were built on Manjaro against glibc 2.31
+INFORMATION: These were built against glibc 2.31
 
 Repo: https://repo.xavatar.com
 
